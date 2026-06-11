@@ -41,7 +41,11 @@ I am an aspiring Software Quality Assurance (QA) Engineer with a strong interest
 ## Portfolio Sections
 
 ### Manual Testing
-- Test Cases
+- Test Cases## Manual Testing
+
+- [Test Cases](./Login_Module/Login_Test_Cases.md)
+- [Test Scenarios](./Login_Module/Login_Scenarios.md)
+- Bug Reports
 - Test Scenarios
 - Bug Reports
 
