@@ -4,9 +4,9 @@ A collection of software testing projects, test documentation, API testing, SQL,
 
 
 **Manual-Testing**  
-API-Testing  
-SQL  
-Playwright-Automation  
-Jira  
-Test-Plans  
-Test-Reports  
+**API-Testing**  
+**SQL**  
+**Playwright-Automation**  
+**Jira**  
+**Test-Plans**  
+**Test-Reports**  
