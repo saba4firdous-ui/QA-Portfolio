@@ -81,7 +81,7 @@ I am an aspiring Software Quality Assurance (QA) Engineer with a strong interest
 ## Contact
 
 - LinkedIn: *()*
-- GitHub: *()*
+- GitHub: *(https://github.com/saba4firdous-ui/QA-Portfolio/blob/main/README.md)*
 
 ---
 
