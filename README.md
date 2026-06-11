@@ -3,7 +3,7 @@ A collection of software testing projects, test documentation, API testing, SQL,
 
 
 
-Manual-Testing
+Manual-Testing  
 API-Testing
 SQL
 Playwright-Automation
