@@ -1,6 +1,6 @@
 # QA Portfolio
 
-Aspiring QA Engineer portfolio featuring manual testing, API testing, SQL, Jira, and automation framework.
+Aspiring QA Engineer portfolio featuring manual testing, API testing, SQL, Jira, and Postman.
 
 
 
