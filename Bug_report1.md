@@ -1,9 +1,8 @@
 ### Bug ID: BUG_101
 
-### Title: 
-*User is able to cancel an order after it has been shipped*
+### Title: User is able to cancel an order after it has been shipped
 
-###Module: 
+### Module: 
 Order Cancellation
 
 ### Severity: 
@@ -12,9 +11,9 @@ High
 ### Priority: 
 High
 
-### Environment: 
-              - OS: macOS
-              - Browser: Chrome
+### Environment:
+  - OS: macOS
+  - Browser: Chrome
 
 
 ###Preconditions:
