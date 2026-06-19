@@ -46,7 +46,7 @@ I am an aspiring Software Quality Assurance (QA) Engineer with a strong interest
 - [Registration_Module](https://github.com/saba4firdous-ui/QA-Test-Cases/tree/main/Registration_Module)
 - Bug Reports
 - Test Scenarios
-- Bug Reports
+  
 
 ### API Testing
 - Postman Collections
