@@ -44,7 +44,7 @@ I am an aspiring Software Quality Assurance (QA) Engineer with a strong interest
 #### Test cases
 - [Login_Module](https://github.com/saba4firdous-ui/QA-Test-Cases/tree/main/Login_Module)
 - [Registration_Module](https://github.com/saba4firdous-ui/QA-Test-Cases/tree/main/Registration_Module)
-- [Bug Reports](path/to/file.md)
+- [Bug Reports](https://github.com/saba4firdous-ui/QA-Portfolio/blob/main/Bug_report1.md)
 - Test Scenarios
   
 
