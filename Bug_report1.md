@@ -1,4 +1,4 @@
-Bug ID: BUG_101
+## Bug ID: BUG_101
 
 Title: 
 *User is able to cancel an order after it has been shipped*
